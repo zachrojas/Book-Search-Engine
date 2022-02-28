@@ -2,7 +2,11 @@
 
 This is a book search app using the Google Books api. In this app, I refactored code to make use of Graphql to handle logging in and saving books to your profile.
 
+Here is an image of the homepage
 ![Homepage](./assets/BookSearchScreenshot.png?raw=true "Screenshot")
+
+![Search](./assets/SearchScreenshot.png?raw=true "Screenshot2")
+
 
 # Installation
 
