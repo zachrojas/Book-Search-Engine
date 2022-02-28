@@ -2,6 +2,8 @@
 
 This is a book search app using the Google Books api. In this app, I refactored code to make use of Graphql to handle logging in and saving books to your profile.
 
+![Homepage](./assets/BookSearchScreenshot.png?raw=true "Screenshot")
+
 # Installation
 
 Clone the repo to your local machine, then npm install, then npm run start.
